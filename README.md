@@ -1,4 +1,6 @@
-# three-tier-application-template
+# Ansible Project - 3tier
+
+Ansible project example of handling a 3-tier application.
 
 ## requirements
 - each node can connect to other nodes via `ssh`
